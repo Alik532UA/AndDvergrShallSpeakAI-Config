@@ -1,5 +1,6 @@
 {
     "ThinClientServerUrl": "https://anddvergrshallspeakai.onrender.com/api/chat",
     "Motd": "Сервер працює стабільно",
-    "IsMaintenance": false
+    "IsMaintenance": false,
+    "DonateInfo": "https://send.monobank.ua/jar/39gh6UeGea\n💳Номер картки банки\n4874 1000 3856 7130"
 }
