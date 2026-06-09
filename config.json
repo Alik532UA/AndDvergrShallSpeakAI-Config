@@ -10,5 +10,6 @@
     "OrderUrl": "https://t.me/alik532",
     "DonateInfoURL": "https://send.monobank.ua/jar/39gh6UeGea",
     "DonateInfoDescription": "Номер картки банки",
-    "DonateInfoCard": "4874 1000 3856 7130"
+    "DonateInfoCard": "4874 1000 3856 7130",
+    "GlobalPromptUrl": "https://alik532ua.github.io/AndDvergrShallSpeakAI-Config/promt.json"
 }
