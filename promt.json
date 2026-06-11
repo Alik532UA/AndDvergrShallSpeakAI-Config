@@ -1,6 +1,6 @@
 {
-  "GlobalPrompt": "",
-  "PersonalPrompts": {
+  "OnlineGlobalPrompt": "",
+  "OnlinePersonalPrompts": {
     "532": "Обов'язково в кінці кожної репліки додавай 'і вона так казала'"
   }
 }
